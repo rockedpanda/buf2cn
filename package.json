@@ -1,0 +1,25 @@
+{
+  "name": "buf2cn",
+  "version": "0.0.1",
+  "description": "decode buf to characters ",
+  "main": "buf2cn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockedpanda/buf2cn.git"
+  },
+  "keywords": [
+    "decode"
+  ],
+  "author": "rockedpanda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockedpanda/buf2cn/issues"
+  },
+  "homepage": "https://github.com/rockedpanda/buf2cn#readme",
+  "dependencies": {
+    "iconv-lite": "^0.5.0"
+  }
+}
